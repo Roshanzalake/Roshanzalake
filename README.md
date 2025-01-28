@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Roshan zalake<br>💻 Aspiring Developer | Self-Taught Programmer<br>📚 Former Computer Science Student | Dropped out in 2nd year<br><br>I'm a beginner coder passionate about learning and building projects to sharpen my skills. <br>Although I left my Computer Science degree, my curiosity for technology and programming remains strong.<br><br>🌱 Currently Learning: JavaScript, Web Development<br>🚀 Exploring: Game Development<br><br>I'm documenting my journey and sharing what I create here on GitHub. <br>Let's connect and grow together!
+👋 Hi, I am  Roshan zalake<br>💻 Aspiring Developer | Self-Taught Programmer<br>📚 Former Computer Science Student | Dropped out in 2nd year<br><br>I'm a beginner coder passionate about learning and building projects to sharpen my skills. <br>Although I have dropped out of my computer science degree, my interest in technology and programming remains pretty high.<br><br>🌱 Currently Learning: JavaScript, Web Development<br>🚀 Exploring: Game Development<br><br>I'm documenting my journey and sharing what I create here on GitHub. <br>Let's connect and grow together!
 
 
 ## 🌐 Socials:
